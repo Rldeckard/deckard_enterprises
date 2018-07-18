@@ -1,3 +1,13 @@
+<link rel="icon" href="logo.png">
+<div style="font-size:40px;padding-left:10px">
+  <label style="display:block;color:blue;width:100%;font-family:Brush Script MT, Brush Script Std, cursive">
+    Deckard
+  </label>
+  <label style="padding:0;font-size:40%;width:100%">
+    E n t e r p r i s e s
+  </label>
+</div>
+
 <?php
-$path = $_SERVER['DOCUMENT_ROOT'];
+$path = $_SERVER['PHP_SELF'];
 ?>
