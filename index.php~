@@ -1,0 +1,30 @@
+<?php
+
+include ('/header.php');
+print $path;
+?>
+<html>
+  <head>
+    <link rel="icon" href="php_logo.jpg">
+    <title>
+      Deckard Enterprises
+    </title>
+  </head>
+  <body style="margin:0"> <! Margin needs done here to eliminate white space>
+    <div style="text-align:center;background-color:#19198c;;padding:10px">
+      <span style="color:white">Welcome to my Deckard Enterprises!</span>
+    </div>
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
